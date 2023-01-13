@@ -11,4 +11,5 @@ public class DemoClass {
 		
 		System.out.println(a + " + " + b + " = " + (a + b));
 	}
+	public static void add (int a, int b, int c)
 }
